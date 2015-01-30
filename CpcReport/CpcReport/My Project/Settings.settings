@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DayReportHour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DayReportMin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DayReportSec" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DayReportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DayReportTemplet" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="File01Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File02Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File03Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File04Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File05Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File06Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File07Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File08Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File09Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File10Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="File01Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台01_</Value>
+    </Setting>
+    <Setting Name="File02Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台02_</Value>
+    </Setting>
+    <Setting Name="File03Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台03_</Value>
+    </Setting>
+    <Setting Name="File04Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台04_</Value>
+    </Setting>
+    <Setting Name="File05Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台05_</Value>
+    </Setting>
+    <Setting Name="File06Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台06_</Value>
+    </Setting>
+    <Setting Name="File07Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台07_</Value>
+    </Setting>
+    <Setting Name="File08Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台08_</Value>
+    </Setting>
+    <Setting Name="File09Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台09_</Value>
+    </Setting>
+    <Setting Name="File10Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">機台10_</Value>
+    </Setting>
+    <Setting Name="WindowsAuthentication" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SQLServerLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="SQLUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="SQLUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa1234</Value>
+    </Setting>
+    <Setting Name="DatabaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\DAYSQL.mdf</Value>
+    </Setting>
+    <Setting Name="SettingPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20131013</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

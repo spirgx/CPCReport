@@ -1,0 +1,15 @@
+D:\CPC\CpcReport\CpcReport\bin\Release\CpcReport.exe.config
+D:\CPC\CpcReport\CpcReport\bin\Release\CpcReport.exe
+D:\CPC\CpcReport\CpcReport\bin\Release\CpcReport.pdb
+D:\CPC\CpcReport\CpcReport\bin\Release\CpcReport.xml
+D:\CPC\CpcReport\CpcReport\obj\Release\ResolveAssemblyReference.cache
+D:\CPC\CpcReport\CpcReport\obj\Release\CPC.FormDB.resources
+D:\CPC\CpcReport\CpcReport\obj\Release\CPC.FormMain.resources
+D:\CPC\CpcReport\CpcReport\obj\Release\CPC.Resources.resources
+D:\CPC\CpcReport\CpcReport\obj\Release\CPC.FormSetting.resources
+D:\CPC\CpcReport\CpcReport\obj\Release\CpcReport.vbproj.GenerateResource.Cache
+D:\CPC\CpcReport\CpcReport\obj\Release\CpcReport.exe
+D:\CPC\CpcReport\CpcReport\obj\Release\CpcReport.xml
+D:\CPC\CpcReport\CpcReport\obj\Release\CpcReport.pdb
+D:\CPC\CpcReport\CpcReport\bin\Release\CheckBoxComboBox.dll
+D:\CPC\CpcReport\CpcReport\bin\Release\CheckBoxComboBox.pdb
